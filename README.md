@@ -1,5 +1,5 @@
 # crypto-arbitrage-opportunities
-Using Python Pandas to see if users can take advantage of price variations in cryptocurrencies between different exchanges. Uses Jupyter notebook.
+Using Python Pandas to see if users can take advantage of price variations in cryptocurrencies between different exchanges. Analyzes data and provides explanation for which days / windows are best to try and take advantage of. 
 
 ---
 
@@ -11,14 +11,13 @@ Technologies included are Pandas, Jupyter, csv, and pathlib.
 
 ## Installation Guide
 
-Will Update later
+N/A
 
 ---
 
 ## Usage
 
-<!-- <img src="images/command_line.png" alt="terminal" width="700" />
-<img src="images/csv_output.png" alt="csv output" width="700" /> -->
+<img src="img/graph.png" alt="sample graph" width="700" />
 
 ---
 
